@@ -30,7 +30,7 @@ Changes from Qualcomm Innovation Center are provided under the following license
 Copyright (c) 2022 Qualcomm Innovation Center, Inc. All rights reserved.
 SPDX-License-Identifier: BSD-3-Clause-Clear
 -->
-<manifest version="1.0" type="device" target-level="6">
+<manifest version="1.0" type="device" target-level="4">
     <kernel target-level="6"/>
     <!-- CapabilityConfigStore HAL Service  -->
     <hal format="hidl">

@@ -110,8 +110,8 @@ BOARD_KERNEL_CMDLINE := \
     video=vfb:640x400,bpp=32,memsize=3072000 \
     disable_dma32=on \
     kpti=off \
-    swinfo.fingerprint=$(SUPERIOR_VERSION) \
-    mtdoops.fingerprint=$(SUPERIOR_VERSION)
+    swinfo.fingerprint=$(LINEAGE_VERSION) \
+    mtdoops.fingerprint=$(LINEAGE_VERSION)
 
 BOARD_BOOTCONFIG := \
     androidboot.hardware=qcom \
